@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\02.Multi Document Interface (MDI) Forms.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\_02.Multi_Document_Interface__MDI__Forms.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\_02.Multi_Document_Interface__MDI__Forms.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\02.Multi Document Interface (MDI) Forms.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\02.Multi Document Interface (MDI) Forms.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\bin\Debug\02.Multi Document Interface (MDI) Forms.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\bin\Debug\02.Multi Document Interface (MDI) Forms.exe
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\bin\Debug\02.Multi Document Interface (MDI) Forms.pdb
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\02.Multi Document Interface (MDI) Forms.exe
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\02.Multi Document Interface (MDI) Forms.pdb
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\_02.Multi_Document_Interface__MDI__Forms.Form2.resources
+C:\Users\hp\Desktop\Desktop-Apps\02.Multi Document Interface (MDI) Forms\02.Multi Document Interface (MDI) Forms\obj\Debug\_02.Multi_Document_Interface__MDI__Forms.Form3.resources

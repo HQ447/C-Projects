@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\bin\Debug\05.Web Browser.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\bin\Debug\05.Web Browser.exe
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\bin\Debug\05.Web Browser.pdb
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\05.Web Browser.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\_05.Web_Browser.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\_05.Web_Browser.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\05.Web Browser.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\05.Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\05.Web Browser.exe
+C:\Users\hp\Desktop\Desktop-Apps\05.Web Browser\05.Web Browser\obj\Debug\05.Web Browser.pdb

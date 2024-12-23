@@ -1,0 +1,30 @@
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\bin\Debug\Media Player - 01.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\bin\Debug\Media Player - 01.exe
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\bin\Debug\Media Player - 01.pdb
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media_Player___01.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media_Player___01.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.exe
+C:\Users\hp\Desktop\Desktop-Apps\Media Player - 01\Media Player - 01\obj\Debug\Media Player - 01.pdb
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\bin\Debug\Media Player - 01.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\bin\Debug\Media Player - 01.exe
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\bin\Debug\Media Player - 01.pdb
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media_Player___01.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media_Player___01.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.exe
+C:\Users\hp\Desktop\Desktop-Apps\01-Media Player\Media Player - 01\obj\Debug\Media Player - 01.pdb

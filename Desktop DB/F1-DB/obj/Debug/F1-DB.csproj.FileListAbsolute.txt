@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1-DB.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1_DB.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1_DB.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1-DB.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1-DB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\bin\Debug\F1-DB.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\bin\Debug\F1-DB.exe
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\bin\Debug\F1-DB.pdb
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1-DB.exe
+C:\Users\hp\Desktop\Desktop-Apps\F1-DB\F1-DB\obj\Debug\F1-DB.pdb

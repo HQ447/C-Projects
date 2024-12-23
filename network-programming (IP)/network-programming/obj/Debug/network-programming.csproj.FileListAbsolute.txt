@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\network-programming\network-programming\bin\Debug\network-programming.exe.config
+C:\Users\hp\Desktop\network-programming\network-programming\bin\Debug\network-programming.exe
+C:\Users\hp\Desktop\network-programming\network-programming\bin\Debug\network-programming.pdb
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network-programming.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network_programming.Form1.resources
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network_programming.Properties.Resources.resources
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network-programming.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network-programming.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network-programming.exe
+C:\Users\hp\Desktop\network-programming\network-programming\obj\Debug\network-programming.pdb

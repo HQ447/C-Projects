@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\lastClass\lastClass\bin\Debug\lastClass.exe.config
+C:\Users\hp\Desktop\lastClass\lastClass\bin\Debug\lastClass.exe
+C:\Users\hp\Desktop\lastClass\lastClass\bin\Debug\lastClass.pdb
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.Form1.resources
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.Properties.Resources.resources
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.exe
+C:\Users\hp\Desktop\lastClass\lastClass\obj\Debug\lastClass.pdb

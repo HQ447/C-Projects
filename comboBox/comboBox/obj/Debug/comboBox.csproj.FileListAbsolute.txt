@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\bin\Debug\comboBox.exe.config
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\bin\Debug\comboBox.exe
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\bin\Debug\comboBox.pdb
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.Form1.resources
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.Properties.Resources.resources
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.exe
+C:\Users\hp\Desktop\Desktop-Apps\comboBox\comboBox\obj\Debug\comboBox.pdb

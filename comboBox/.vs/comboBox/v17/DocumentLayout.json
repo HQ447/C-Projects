@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA914786-7FC8-4208-B892-C086607E8E9C}|comboBox\\comboBox.csproj|c:\\users\\hp\\desktop\\desktop-apps\\combobox\\combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA914786-7FC8-4208-B892-C086607E8E9C}|comboBox\\comboBox.csproj|solutionrelative:combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA914786-7FC8-4208-B892-C086607E8E9C}|comboBox\\comboBox.csproj|C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\comboBox\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA914786-7FC8-4208-B892-C086607E8E9C}|comboBox\\comboBox.csproj|solutionrelative:comboBox\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\comboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "comboBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\comboBox\\Form1.cs",
+              "RelativeToolTip": "comboBox\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:23:36.938Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\comboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "comboBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Desktop-Apps\\comboBox\\comboBox\\Form1.cs [Design]",
+              "RelativeToolTip": "comboBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:12:00.349Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
